@@ -1,0 +1,4 @@
+test_id,area,requirement,environment,tool_version,input_or_steps,expected,observed,status,evidence,limitations
+T-001,input,Reject non-finite numeric input,local browser,NOT RUN,NaN/Infinity,Validation error,,NOT RUN,,
+T-002,embed,Authorized embedding works,staging browser,NOT RUN,Load approved iframe,Loads without policy errors,,NOT RUN,,
+T-003,headers,Inspect published CSP,production,NOT RUN,HTTP response header inspection,Policy documented,,NOT RUN,,
