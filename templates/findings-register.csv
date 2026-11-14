@@ -1,0 +1,2 @@
+id,title,category_cwe_owasp,severity,confidence,component_file_line,preconditions,evidence,reproduction,execution_status,runtime_or_build,business_impact,proposed_fix,regression_tests,residual_risk,status
+F-001,Example placeholder,INPUT_VALIDATION,UNRATED,LOW,TBD,TBD,TBD,TBD,NOT RUN,TBD,TBD,TBD,TBD,TBD,NOT TESTED
